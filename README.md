@@ -1,1 +1,1 @@
-# HD44780
+This is a alphanumeric hd44780 liquid crystal display's library for Atmega8A. The library works without using RW bit, it's based on 4-bit data communication which means that it's using only D7-D4 pins to reduce number of connections. 
